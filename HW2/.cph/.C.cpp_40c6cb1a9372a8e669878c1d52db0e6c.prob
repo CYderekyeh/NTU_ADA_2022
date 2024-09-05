@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"d:\\Desktop\\CP\\ADA_2022\\HW2\\C.cpp","tests":[{"id":1665051164503,"input":"dcxxxa\n1","output":"cdxxxa"},{"id":1665051180830,"input":"dcxxxa\n5","output":"adcxxx"},{"id":1666005723452,"input":"dxxcxa\n6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Desktop\\CP\\ADA_2022\\HW2\\C.cpp","group":"local","local":true}
